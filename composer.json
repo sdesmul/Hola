@@ -1,0 +1,12 @@
+{
+  "name": "sdemul/328/Hola",
+  "authors": [
+    {
+      "name": "Samantha DeSmul",
+      "email": "sdesmul@greenriver.edu.mail"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
